@@ -45,7 +45,7 @@ cyber-login-portal/
 
 ## 📸 Vista previa
 
-![Preview](Cyber_Login_Portal.png)
+![Preview](cyber-login-portal/Cyber_Login_Portal.png)
 
 ---
 
